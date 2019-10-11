@@ -1,0 +1,27 @@
+var dataMovie = [{
+	"name": "Movie Name 1", 
+	"about":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+	"image":"img/1.jpg"
+},{
+	"name":"Movie Name 2",
+	"about":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+	"image":"img/2.jpg"
+},{
+	"name":"Movie Name 3", 
+	"about":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+	"image":"img/3.jpg"
+},{
+	"name": "Movie Name 4", 
+	"about":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+	"image":"img/4.jpg"
+},{
+	"name":"Movie Name 5",
+	"about":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+	"image":"img/5.jpg"
+},{
+	"name":"Movie Name 6", 
+	"about":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+	"image":"img/6.jpg"
+}];
+
+
