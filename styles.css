@@ -1,23 +1,18 @@
-/* Reset */
-
 * {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-	background-color: #000 !important;
-	color: #fff !important;
+    background-color: #000;
 }
 
 .main_list {
-	background-color: #171e24;
+    background-color: #171e24;
 }
+
 #data_movie {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
-
-
-/* like button color:#3b9d38 */
